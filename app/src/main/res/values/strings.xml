@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_question">Question</string>
+    <string name="t">TERMS &amp; CONDITION</string>
+    <string name="Start">START</string>
+    <string name="title_activity_term">Term</string>
+    <string name="one">1. There  are five question</string>
+    <string name="two">2. All are multiple choice</string>
+    <string name="three">3. One correction contain 1 marks</string>
+    <string name="four"> 4. No negative marking</string>
+    <string name="next">NEXT</string>
+    <string name="title_activity_result">Result</string>
+    <string name="title_activity_next">Next</string>
+    <string name="title_activity_score">Score</string>
+    <string name="title_activity_test_question">TestQuestion</string>
+</resources>
